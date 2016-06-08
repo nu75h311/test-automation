@@ -48,7 +48,7 @@ Downloads and installs
 1.	Download the *Internet Explorer Driver Server* for your IE version from:  
 	http://www.seleniumhq.org/download/  
 	More info/configuration if needed:  
-	https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver
+	https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver
 2.	Download the Google Chrome Driver from:  
 	**[Home]** https://sites.google.com/a/chromium.org/chromedriver/  
 	**[Wipro]** \\10.197.72.32\Mastercard\Programas\Selenium
