@@ -82,7 +82,7 @@ Downloads and installs
 5.	Click Finish; the structure below should be created:
     >Image goes here
 
-6.	Open the `pom.xml` file, add the following inside the `<project>` section:
+6.	Open the `pom.xml` file (pom.xml tab), add the following inside the `<project>` section:
     ```xml
     <dependencies>
         <dependency>
