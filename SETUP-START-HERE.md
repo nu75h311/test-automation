@@ -1,4 +1,4 @@
-Test Automation Configuration for Test Engineers
+Test Automation Setup for Test Engineers
 ================================================
 
 Downloads and installs
