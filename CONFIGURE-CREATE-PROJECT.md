@@ -1,7 +1,7 @@
 # Test Automation Configuration and Create a project
 
 - [Configure Eclipse](#configure-eclipse)
-- [Create a project)](#create-a-project)
+- [Create a project](#create-a-project)
 - [Configure JBehave plugin](#configure-jbehave-plugin)
 
 ## Configure Eclipse
