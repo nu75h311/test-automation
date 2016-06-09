@@ -10,10 +10,9 @@ import org.springframework.stereotype.Component;
 
 import com.wipro.testing.training.pages.SearchPage;
 
-@Component // Uncomment for Spring
+@Component
 public class PerformSearchSteps {
 
-	//SearchPage page = new SearchPage();
 	@Autowired
 	SearchPage page;
 	
