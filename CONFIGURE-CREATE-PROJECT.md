@@ -1,5 +1,8 @@
 # Test Automation Configuration and Create a project
 
+- [Configure Eclipse](#configure-eclipse)
+- [Create a project)](#create-a-project)
+- [Configure JBehave plugin](#configure-jbehave-plugin)
 
 ## Configure Eclipse
 
@@ -86,6 +89,11 @@
 ## Configure JBehave plugin
 
 1. In Eclipse, open menu Help > *Install New Software…*
-2. Fill the Work with: with http://jbehave.org/reference/eclipse/updates/; click Add…
+2. Fill the *Work with:* field with http://jbehave.org/reference/eclipse/updates/; click Add…
 3. Select the JBehave feature containing *JBehave Eclipse*; click Finish.
 4. Follow standard installation procedure (an Eclipse restart will be required).
+
+
+## Go to [JBehave Run][jbehave-run].
+
+[jbehave-run]: ../master/JBehave-Run.md
