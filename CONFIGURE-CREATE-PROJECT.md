@@ -25,11 +25,11 @@
 	-	Create a simple project (skip archetype selection)
 	-	Use default Workspace location.
 3.	Click Next.
-4.	Fill the next step fields as below:
-    >Image goes here
+4.	Fill the next step fields as below:  
+    ![alt text][new-maven-project]
 
-5.	Click Finish; the structure below should be created:
-    >Image goes here
+5.	Click Finish; the structure below should be created:  
+    ![alt text][initial-project-structure]
 
 6.	Open the `pom.xml` file (pom.xml tab), add the following inside the `<project>` section:
     ```xml
@@ -97,3 +97,5 @@
 ## Go to [JBehave Run][jbehave-run].
 
 [jbehave-run]: ../master/JBehave-Run.md
+[new-maven-project]: https://raw.githubusercontent.com/nu75h311/test-automation/master/pictures/tutorial/new-maven-project.png "New Maven Project"
+[initial-project-structure]: https://raw.githubusercontent.com/nu75h311/test-automation/master/pictures/tutorial/initial-project-structure.png "Initial Project Structure"
