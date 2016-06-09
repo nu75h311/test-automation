@@ -1,7 +1,7 @@
 # Test Automation Setup
 
 - [Eclipse IDE for Java EE Developers](#eclipse-ide-for-java-ee-developers)
-- [JDK (Java SE Development Kit)](#jdk-(java-se-development-kit))
+- [JDK (Java SE Development Kit)](#jdk-java-se-development-kit)
 - [Apache Maven](#apache-maven)
 - [Selenium Webdrivers](#selenium-webdrivers)
 
