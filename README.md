@@ -10,5 +10,5 @@ Go to how to create and run a test with Selenium.
 Go to how to create and run a test with Selenium + JBehave.  
 Go to how to create and run a test with Selenium + JBehave + Spring.  
 
-[setup]: ../master/#SETUP-START-HERE.md
-[configure]: ../master/CONFIGURE-CREATE-PROJECT.md
+[setup]: ../master/1.SETUP-START-HERE.md
+[configure]: ../master/2.CONFIGURE-CREATE-PROJECT.md
