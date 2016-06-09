@@ -56,3 +56,15 @@
 3.	Unzip both into `C:\Selenium\`
 
 
+
+## Go to [Configuration][configuration].
+
+Or:  
+Go to how to configure Eclipse and create a Maven project.  
+Go to how to create and run a test with JBehave.  
+Go to how to create and run a test with Selenium.  
+Go to how to create and run a test with Selenium + JBehave.  
+Go to how to create and run a test with Selenium + JBehave + Spring.  
+
+[configuration]: ../master/CONFIGURE-CREATE-PROJECT.md
+
