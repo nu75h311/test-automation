@@ -5,7 +5,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.springframework.stereotype.Component;
 
-@Component // Uncomment for Spring
+@Component
 public class SearchPage extends AbstractPage{
 	
 	@FindBy(id = "lst-ib")
